@@ -6,11 +6,15 @@
 
 ## 游玩方式
 
-通过点击最下方的黑方块，以获得积分。
+通过左键点击最下方的黑方块，以获得积分。
 
 ## Download
 
 在`release`中找到`WhiteTileAvoid.exe`文件下载游玩即可。
+
+## EasyX库
+
+EasyX Graphics Library 是针对 Visual C++ 的免费绘图库。如果要编译源代码的话，需要安装这个库。
 
 ## 个人信息
 
